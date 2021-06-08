@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = jujurkokdipecat
+
+## Media
+
+### Title
+panorama_E0BB09D5_EA30_731A_41E9_02B7D2C08F91.label = fix0000
+panorama_E36CD4AD_EA30_5105_41D2_C6E712E4B375.label = fix0001
